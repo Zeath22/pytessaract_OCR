@@ -9,7 +9,7 @@ A simple yet powerful OCR tool created using Python. This application helps user
 #### Tesseract-OCR
 This tool uses Tesseract-OCR, an optical character recognition engine, to extract text from images. It must be installed separately and the path must be specified within the script. 
 
-Follow the installation guide here: [Tesseract-OCR GitHub](https://github.com/tesseract-ocr/tesseract/wiki)
+Follow the installation guide here: [Tesseract-OCR GitHub](https://github.com/tesseract-ocr/tessdoc)
 
 📝 **Note**: After installation, make sure to replace the path in the script with your own path to the Tesseract-OCR executable.
 
